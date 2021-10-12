@@ -117,7 +117,7 @@ nltk==3.4.5
 notebook==6.0.1
 numba==0.45.1
 numpy==1.17.1
-opencv-contrib-python==4.1.1.26
+opencv-contrib-python==4.2.0.32
 opencv-python==4.1.1.26
 packaging==19.1
 pandas==0.25.1
