@@ -109,7 +109,7 @@ mistune==0.8.4
 mixpanel==4.4.0
 mock==3.0.5
 multidict==4.5.2
-nbconvert==5.6.0
+nbconvert==6.5.1
 nbformat==4.4.0
 netifaces==0.10.9
 networkx==2.3
